@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: wheat;
+    width: auto;
+}
+
+.image{
+    margin: 10px;
+}
+
+.center .input {
+        width: 400px;
+        border-radius: 10px;
+        padding: 10px;
+}
+
+.usericon{
+    margin:10px
+}
